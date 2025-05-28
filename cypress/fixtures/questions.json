@@ -1,0 +1,7 @@
+[
+  {
+    "question": "What is JSX?",
+    "options": ["A JavaScript extension", "A CSS preprocessor", "A database", "None"],
+    "answer": "A JavaScript extension"
+  }
+]
